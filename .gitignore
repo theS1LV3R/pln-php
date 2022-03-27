@@ -1,0 +1,4 @@
+tailwind.css
+env.php
+*.log
+node_modules
